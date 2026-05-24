@@ -4,7 +4,7 @@
 ![Dashboard](Dashboard.png)
 
 ### Project Overview
-A 121-day analysis of Ethereum network activity (Jan–May 2026), 
+A 120-day analysis of Ethereum network activity (Jan–May 2026), 
 built using Dune Analytics and visualized in Tableau.
 
 ### Tools Used
