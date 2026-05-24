@@ -13,7 +13,7 @@ built using Dune Analytics and visualized in Tableau.
 - Tableau (dashboard)
 
 ### Key Findings
-- 202M+ total transactions over 121 days
+- 202M+ total transactions over 120 days
 - 65.7% of daily activity driven by returning users
 - 36.7% decline in active users from first to last 30 days
 - Gas fee spike in April reached 10x the baseline average
